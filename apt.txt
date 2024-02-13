@@ -1,2 +1,3 @@
 libgl1
+xvfb
 libxcb-xinerama0
